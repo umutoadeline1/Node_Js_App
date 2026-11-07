@@ -1,0 +1,13 @@
+{
+  "name": "node-express-render-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Express app that displays a greeting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
